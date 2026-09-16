@@ -193,7 +193,7 @@ Some are serious projects, some are experiments, and some are basically proof th
 ## 🌐 Find me here
 
 [![GitHub](https://img.shields.io/badge/GitHub-asmitsaha5-181717?style=for-the-badge\&logo=github)](https://github.com/asmitsaha5)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asmit%20Saha-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/asmit-saha/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asmit%20Saha-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/asmit-saha)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-181717?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://asmitsaha5.github.io/)
 
 ---
