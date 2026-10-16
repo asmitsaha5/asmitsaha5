@@ -1,46 +1,85 @@
 # Hi, I'm Asmit Saha 👋
 
-Final-year B.Tech CSE student at **KIIT University** (graduating May 2027). I build full-stack and AI-powered web apps, and I practise competitive programming to keep my fundamentals sharp.
+### Final-year Computer Science and Engineering student | Full-stack & AI-powered applications
 
-🌐 **Portfolio:** [asmitsaha5.github.io](https://asmitsaha5.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/asmit-saha-a57794285/) · ✉️ asmitsaha5@gmail.com
+I’m a B.Tech CSE student at **KIIT** who enjoys turning ideas into useful, deployed products. I build with **React, Next.js, and Firebase**, and I’m especially interested in AI-powered applications, machine learning, and solving problems through competitive programming.
 
----
-
-## Projects
-
-### ♟️ Chess Game
-A browser chess game with a computer opponent at three difficulty levels: random, greedy scoring, and Minimax with Alpha-Beta pruning. Includes legal-move validation, check/checkmate/stalemate handling, pawn promotion, undo and move history.
-
-**Stack:** React · JavaScript · chess.js · react-chessboard · Vercel
-[Live demo](https://chess-game-as.vercel.app/) · [Source](https://github.com/asmitsaha5/chess-game)
-
-### 🤖 ScholarAI
-An AI study assistant for summaries, notes, quizzes and resume building, built at the **Status Code 2.0** hackathon (IISER Kolkata). Google Sign-In and Firestore keep each user's data across sessions.
-
-**Stack:** Next.js · React · Firebase · Firestore
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering** at KIIT (2023–2027)
+- 🧠 Interested in **AI/ML, full-stack development, and practical software engineering**
+- ♟️ Built a chess game featuring a custom Minimax AI opponent
+- 📚 Practicing data structures and algorithms through LeetCode and Codeforces
 
 ---
 
-## Problem solving
+## Tech Stack
 
-- **LeetCode:** 100+ problems → [solutions](https://github.com/asmitsaha5/LeetcodeProblems)
-- **Codeforces:** 50+ problems, 10+ contests, max rating 891 → [practice](https://github.com/asmitsaha5/Codeforces)
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Tech
+### Frameworks, services & tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Languages:** C/C++ · Python · JavaScript · SQL
-**Web & cloud:** React · Next.js · Firebase · Google Cloud · Vercel
-**Tools:** Git · GitHub · VS Code
+**Also used:** chess.js, react-chessboard, VS Code, Codex, and Claude.
+
+## Currently Learning / Interested In
+
+- Building thoughtful full-stack applications with **React, Next.js, and Firebase**
+- Applying **AI and machine learning** to practical student and productivity tools
+- Strengthening **data structures, algorithms, and core computer science fundamentals**
+
+## Education
+
+**Kalinga Institute of Industrial Technology (KIIT), Deemed to be University**  
+B.Tech in Computer Science and Engineering · **2023–2027**  
+GPA: **7.80/10.00** · Expected graduation: **May 2027**
+
+## Featured Projects
+
+### ♟️ Chess Game — Web-Based Application
+A responsive browser chess game built with **React**, **chess.js**, and **react-chessboard**.
+
+- Supports legal move validation, drag-and-drop gameplay, board orientation, and game-state tracking.
+- Includes three AI difficulty levels: random moves, greedy move scoring, and **Minimax with alpha-beta pruning**.
+- Implements check/checkmate, stalemate and draw handling, pawn promotion, undo, captured-piece tracking, move history, and restart.
+- Deployed on **Vercel**.
+
+**Repository and live demo URLs:** 
+[Game Repo](https://github.com/asmitsaha5/chess-game)
+[Game](https://chess-game-as.vercel.app/)
+### 🤖 ScholarAI — AI-Powered Educational Assistant
+An AI-powered platform for academic productivity, including summarization, note-making, quiz generation, and resume building.
+
+- Uses **Firebase Authentication** with Google Sign-In.
+- Uses **Cloud Firestore** to manage and track user data and activity across sessions.
+
+**live demo URL:** [Link](https://scholarai-edu.vercel.app/)
+
+## Competitive Programming
+
+- **LeetCode:** 100+ problems solved
+- **Codeforces:** 50+ problems solved · 10+ contests · maximum rating **891**
+- **Hackathon:** Participated in the inter-college **Status Code 2.0** hackathon at IISER Kolkata
 
 ## Certifications
 
-IBM Machine Learning Professional (Coursera) · Google Cloud Skill Badges
+- **IBM Machine Learning Professional Certificate** — [Coursera](https://www.coursera.org/account/accomplishments/specialization/JK3BZWUTO67W)
+- **Google Cloud Skill Badges** — [Google Cloud](https://www.credly.com/users/asmit-saha5)
 
-## Other repositories
+## Connect
 
-[C Programming](https://github.com/asmitsaha5/C-Programming) · [C++](https://github.com/asmitsaha5/CPP) · [Data Structures](https://github.com/asmitsaha5/Data-Structure) · [Java OOP](https://github.com/asmitsaha5/OPPs-in-Java) · [AI Lab](https://github.com/asmitsaha5/AI-lab) · [ML Capstone](https://github.com/asmitsaha5/Machine-Learning-Capstone)
+- **Email:** [asmitsaha5@gmail.com](mailto:asmitsaha5@gmail.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/asmit-saha)
+- **GitHub:** [Github](https://www.github.com/asmitsaha5)
+- **LeetCode:** [Leetcode](https://www.leetcode.com/u/Asmit_Saha/)
+- **GeeksforGeeks:** [geekforgeeks](https://www.geeksforgeeks.org/profile/its_asmit)
 
 ---
-
-![Stats](https://github-readme-stats.vercel.app/api?username=asmitsaha5&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmitsaha5&layout=compact&theme=tokyonight&hide_border=true)
