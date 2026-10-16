@@ -52,7 +52,7 @@ A responsive browser chess game built with **React**, **chess.js**, and **react-
 - Implements check/checkmate, stalemate and draw handling, pawn promotion, undo, captured-piece tracking, move history, and restart.
 - Deployed on **Vercel**.
 
-**Repository and live demo URLs:** 
+**Repository and live URLs:** 
 [Game Repo](https://github.com/asmitsaha5/chess-game)
 [Game](https://chess-game-as.vercel.app/)
 ### 🤖 ScholarAI — AI-Powered Educational Assistant
@@ -61,7 +61,7 @@ An AI-powered platform for academic productivity, including summarization, note-
 - Uses **Firebase Authentication** with Google Sign-In.
 - Uses **Cloud Firestore** to manage and track user data and activity across sessions.
 
-**live demo URL:** [Link](https://scholarai-edu.vercel.app/)
+**live URL:** [Link](https://scholarai-edu.vercel.app/)
 
 ## Competitive Programming
 
