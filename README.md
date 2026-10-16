@@ -1,6 +1,10 @@
 # Hi, I'm Asmit Saha 👋
 
 ### Final-year Computer Science and Engineering student | Full-stack & AI-powered applications
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=asmitsaha5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 
 I’m a B.Tech CSE student at **KIIT** who enjoys turning ideas into useful, deployed products. I build with **React, Next.js, and Firebase**, and I’m especially interested in AI-powered applications, machine learning, and solving problems through competitive programming.
 
@@ -28,9 +32,8 @@ I’m a B.Tech CSE student at **KIIT** who enjoys turning ideas into useful, dep
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Also used:** chess.js, react-chessboard, VS Code, Codex, and Claude.
 
-## Currently Learning / Interested In
+## Currently Learning
 
 - Building thoughtful full-stack applications with **React, Next.js, and Firebase**
 - Applying **AI and machine learning** to practical student and productivity tools
@@ -63,9 +66,21 @@ An AI-powered platform for academic productivity, including summarization, note-
 
 **live URL:** [Link](https://scholarai-edu.vercel.app/)
 
+## GitHub Stats
+
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmitsaha5&layout=compact&theme=default&hide_border=true" alt="Most used languages on GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=asmitsaha5&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub profile statistics" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=asmitsaha5&theme=default&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
 ## Competitive Programming
 
-- **LeetCode:** 100+ problems solved
+- **LeetCode:** 100+ problems solved,  strengthening proficiency in Data Structures and Algorithms
 - **Codeforces:** 50+ problems solved · 10+ contests · maximum rating **891**
 - **Hackathon:** Participated in the inter-college **Status Code 2.0** hackathon at IISER Kolkata
 
@@ -83,3 +98,5 @@ An AI-powered platform for academic productivity, including summarization, note-
 - **GeeksforGeeks:** [geekforgeeks](https://www.geeksforgeeks.org/profile/its_asmit)
 
 ---
+
+
