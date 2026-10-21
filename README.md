@@ -67,17 +67,13 @@ An AI-powered platform for academic productivity, including summarization, note-
 **live URL:** [Link](https://scholarai-edu.vercel.app/)
 
 ## GitHub Stats
-
-
 <p align="center">
   <img height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmitsaha5&layout=compact&theme=github_dark&hide_border=true&size_weight=0.5&count_weight=0.5"
     alt="Most used languages on GitHub" />
-
- <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=asmitsaha5&show_icons=true&theme=default&hide_border=true&include_all_commits=true"
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=asmitsaha5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
 alt="GitHub profile statistics" />
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=asmitsaha5&theme=github_dark&hide_border=true" alt="GitHub contribution streak" />
 </p>
